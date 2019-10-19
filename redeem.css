@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* # is id. ID has precedence over class & element */
 /*
 #test{
@@ -11,17 +10,20 @@
     color: red;
 } 
 */
-body {
-    width:100vw;
-    height:100vh;
-    background: black;
+.header {
+    padding: 1.55vw;
+    background: #147037;
   }
+  #balance{
 
-  h1{
-      color:red;
+      font-size: 20;
+      text-align: center;
   }
-=======
-h1 {
-    background: black;
-}
->>>>>>> 04f12a41fadfd6f5e4cc63d0135dc47c7b1d61a7
+  #button{
+      padding-top: 5vw;
+      text-align: center;
+  }
+  #btnColor{
+      background:#147037
+  }
+  
