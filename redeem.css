@@ -1,29 +1,11 @@
 /* # is id. ID has precedence over class & element */
-/*
-#test{
-    background: red;
-}
-*/
 /* . is class */
-/*
-.red{
-    color: red;
-} 
-*/
-.header {
-    padding: 1.55vw;
-    background: #147037;
-  }
   #balance{
+      text-align: center;
+  }
+  #btn{
+      text-align: center;
+  }
 
-      font-size: 20;
-      text-align: center;
-  }
-  #button{
-      padding-top: 5vw;
-      text-align: center;
-  }
-  #btnColor{
-      background:#147037
-  }
+
   
