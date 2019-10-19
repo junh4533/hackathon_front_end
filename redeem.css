@@ -3,10 +3,9 @@
 
 #page{
     text-align: center;
-    font-size: 25px;
 }
 #balance {
-    padding-top: 30vw;
+    padding-top: 5vw;
     text-align: center;
 }
 
@@ -17,3 +16,12 @@
 .center{
     text-align: center !important;
 }
+@font-face {
+    font-family: 'Chunk';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Chunk.otf");
+  }
+  #brand {
+      font-family: 'Chunk';
+  }
