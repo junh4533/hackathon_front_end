@@ -1,0 +1,37 @@
+/* # is id selector */
+/* #test{ 
+    background:red;
+} */
+
+/* . is class selector */
+/* .red{
+    color:red;
+} */
+
+h1{
+    color:green;
+}
+
+.red{
+    color:red;
+}
+
+#orange{ 
+    /* color:orange;
+     */
+     background:orange;
+}
+
+body{
+    /* text-align: center; */
+}
+
+.center{
+    /* width:50vw; */
+    text-align: center;
+}
+
+#bunny{
+    text-align: center;
+    /* width:50vw; */
+}
