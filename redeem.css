@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* # is id. ID has precedence over class & element */
 /*
 #test{
@@ -19,3 +20,8 @@ body {
   h1{
       color:red;
   }
+=======
+h1 {
+    background: black;
+}
+>>>>>>> 04f12a41fadfd6f5e4cc63d0135dc47c7b1d61a7
