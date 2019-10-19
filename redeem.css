@@ -1,0 +1,21 @@
+/* # is id. ID has precedence over class & element */
+/*
+#test{
+    background: red;
+}
+*/
+/* . is class */
+/*
+.red{
+    color: red;
+} 
+*/
+body {
+    width:100vw;
+    height:100vh;
+    background: black;
+  }
+
+  h1{
+      color:red;
+  }
