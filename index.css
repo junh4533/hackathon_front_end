@@ -11,6 +11,16 @@ h1 {
     position:absolute;
 } */
 
+@font-face {
+    font-family: 'Chunk';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Chunk.otf");
+  }
+  #brand {
+      font-family: 'Chunk';
+  }
+
 #bg{
     position: absolute;
     width:100vw;
