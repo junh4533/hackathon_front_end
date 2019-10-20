@@ -25,3 +25,10 @@
   #brand {
       font-family: 'Chunk';
   }
+#bg{
+    position: absolute;
+    width:100vw;
+    z-index:-999;
+    top:35vh;
+    /* z-index: */
+}
